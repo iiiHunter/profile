@@ -1,13 +1,13 @@
 # Site settings
-title: Mauricio Urraco
-description: Jekyll Theme Minimal Resume
+title: Hesuo Zhang
+description: Hesuo Zhang's Profile
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Hesuo Zhang
 user_description: I am a on-campus Algorithm Engineer, always searching for the next challenge; no task is too scary nor too difficult. I received the B.S. degree from the school of Electronic and Information Engineering at the South China University of Technology, Guangzhou, China in 2019. I am currently pursuing the master degree in information and communication engineering at the South China University of Technology, Guangzhou, China. I current research interests include machine learning, deep learning, document layout analysis, text detection and recognition.
-user_title: Algorithm Engineer
+user_title: Algorithm Engineer (Computer vision)
 email: eehesuo.zhang@mail.scut.edu.cn (hesuozhang@gmail.com)
 # twitter_username: lorem_ipsum
 # github_username:  lorem_ipsum
